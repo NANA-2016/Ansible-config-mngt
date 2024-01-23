@@ -1,8 +1,10 @@
-# Ansible-config-mngt
-ansible configurations project
+
 # Ansible-config-mgt
 
 ## Ansible  project configuration
+
+
+
 ### inventory
  Files:dev,staging,uat,prod all .yml
  
