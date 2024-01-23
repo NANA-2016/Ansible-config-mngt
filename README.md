@@ -3,12 +3,27 @@
 
 ## Ansible  project configuration
 
+## Ansible installation 
+
+commands used for ansible installation
+
+sudo apt update
+sudo apt install ansible
+
+![image](https://github.com/NANA-2016/Ansible-config-mgt/assets/141503408/5fbe35c2-06c9-46a9-9962-4608d90503fe)
 
 
-### inventory
+ ## Configure a weebhook to allow you to connect easily jenkins and the git hub repository you are using on the git heb repusitory settings.
+
+# Ansible development on vs code opening folder
+
+ 
+ ### inventory
+ 
  Files:dev,staging,uat,prod all .yml
  
  ### Playbooks
+ 
  File:Common.yml
  
 ![image](https://github.com/NANA-2016/Ansible-config-mgt/assets/141503408/29dcfe09-f055-48be-aaff-eb3c98f7c24c)
